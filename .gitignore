@@ -1,0 +1,12 @@
+
+.terragrunt-cache/
+*.dec.yaml
+*.dec.json
+*.tfplan
+*.tfplan.json
+*tfplan.json
+terraform.json
+*.terraform
+.creds
+.idea/
+*.lock.*
